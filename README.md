@@ -1,11 +1,20 @@
-Description
+# CYNTI: One-World Cryptocurrency 🌍
 
-CYNTI: One-World Cryptocurrency. The first serious attempt at creating a cryptocurrency for the whole world to use that is geo-politically neutral.
+**CYNTI** is the first serious attempt at creating a cryptocurrency for the whole world to use — one that is **geo-politically neutral**.  
 
-Promo Videos:
-https://www.youtube.com/watch?v=2RSb6xueWFQ
-https://www.youtube.com/watch?v=B90af2TsXhg
-https://www.youtube.com/watch?v=CUja2rplhsQ
+---
 
+## 📖 Description
+CYNTI: One-World Cryptocurrency.  
+The vision is to build a global digital currency that transcends borders and politics, enabling everyone to participate in a fair and unified financial system.  
 
-Copyright © 2019 Andre Gray
+---
+
+## 🎥 Promo Videos
+- [Promo Video 1](https://www.youtube.com/watch?v=2RSb6xueWFQ)  
+- [Promo Video 2](https://www.youtube.com/watch?v=B90af2TsXhg)  
+- [Promo Video 3](https://www.youtube.com/watch?v=CUja2rplhsQ)  
+
+---
+
+© 2019 Andre Gray
