@@ -19,18 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-✅ Summary
-●	Project name: deep'ly
-
-●	Language: Python 3
-
-●	Frameworks: PyTorch, Hugging Face Transformers
-
-●	Compatible models: Any AutoModelForCausalLM (e.g., LLaMA, Mistral, GPT-2/3/Neo)
-
-●	Inference speed: Efficient with optional GPU acceleration
-
-●	Sampling: Supports temperature and top_k decoding
-
-●	Output: Token-by-token streaming to the console
